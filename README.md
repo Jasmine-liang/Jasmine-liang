@@ -5,4 +5,5 @@
 - 🌱 I’m currently learning Springboot, JavaWeb, Redis. Taking class in Computer Network, Operating system, Computer Architecture in college now.
 - ✍️ I wrote down some issues(solved) or fun things here [GitBlog](https://github.com/Jasmine-liang/gitblog)
 ### What do I do for fun?
-🎶 Live coding using Sonic Pi :)
+- 🎶 Live coding using Sonic Pi :)
+- 👩‍💻 Making a maze and solve it visually using Java: [Maze-Maker-And-Solver: Generate a simple maze randomly and use several ways to find the solution Visually!](https://github.com/Jasmine-liang/Maze-Maker-And-Solver)
