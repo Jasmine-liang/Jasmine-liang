@@ -4,6 +4,7 @@
 - 🧘 Also love meditaion and yoga, always want to be conscious.
 - 🌱 I’m currently learning Springboot, JavaWeb, Redis. Also exporing Kotlin now.
 - ✍️ I wrote down some issues(solved) or fun things here [GitBlog](https://github.com/Jasmine-liang/gitblog)
+- Currently looking for a backend dev internship
 ### What do I do for fun?
 - 🎶 Live coding using Sonic Pi :)
 - 👩‍💻 Making a maze and solve it visually using Java: [Maze-Maker-And-Solver: Generate a simple maze randomly and use several ways to find the solution Visually!](https://github.com/Jasmine-liang/Maze-Maker-And-Solver)
