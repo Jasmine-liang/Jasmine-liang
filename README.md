@@ -2,7 +2,7 @@
 ### About Me
 - 😃 I like solving problems through programming, and always love going through the foundational knowledge when I'm stuck in problems.   
 - 🧘 Also love meditaion and yoga, always want to be conscious.
-- 🌱 I’m currently learning Springboot, JavaWeb, Redis. Also exporing Kotlin now.
+- 🌱 I’m currently learning Springboot,Redis. Also exporing Kotlin/Android now.
 - ✍️ I wrote down some issues(solved) or fun things here [GitBlog](https://github.com/Jasmine-liang/gitblog)
 - Currently looking for a backend dev internship
 ### What do I do for fun?
