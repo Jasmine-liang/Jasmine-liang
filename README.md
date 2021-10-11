@@ -5,4 +5,4 @@ Things I've also expolred:
 - 🌿 Backend dev(Java, Node
 - 🦕 Web security(Dived into bug bounty for a little 
 
- ☺️ In my Spare time, I'm the contributor of Unknown DAO, a decentralized autonomous organization in the crypto realm. I'm responsible for **measuring of meaningful contributions** such as emotional labor and community cultivation. You can find our DAO here: [Unknown DAO wiki](https://unknown-dao.notion.site/unknown-dao/UnknownDAO-wiki-d94e44b62d6a4278a0dca12be035050e)
+ ☺️ In my Spare time, I'm the **contributor** of Unknown DAO, a decentralized autonomous organization in the crypto realm. I'm responsible for **measuring of meaningful contributions** such as emotional labor and community cultivation. You can find our DAO here: [Unknown DAO wiki](https://unknown-dao.notion.site/unknown-dao/UnknownDAO-wiki-d94e44b62d6a4278a0dca12be035050e)
